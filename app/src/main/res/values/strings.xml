@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">IPCam</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="start_service">Start service</string>
+    <string name="stop_service">Stop service</string>
+    <string name="photo_period">Time period to take photos:</string>
+    <string name="photo_quality_index">Photo quality:</string>
+    <string name="photo_delete_after_send">Delete photo after successful sending:</string>
+    <string name="mail_box_to_send_from_login">Login for mail box to send from:</string>
+    <string name="mail_box_to_send_from_passwd">Password for mail box to send from:</string>
+    <string name="mail_box_to_send_to">Mail box to send to:</string>
+    <string name="mail_server_address">SMTP server address:</string>
+    <string name="mail_server_port">SMTP server port:</string>
+    <string name="mail_portal">Mail portal:</string>
+    <string name="mail_login_intent_extra_name">MailLogin</string>
+    <string name="mail_password_intent_extra_name">MailPassword</string>
+    <string name="mail_portal_intent_extra_name">MailPortal</string>
+    <string name="smtp_server_addr_intent_extra_name">SMTPServerAddr</string>
+    <string name="smtp_server_port_intent_extra_name">SMTPServerPort</string>
+    <string name="mail_box_to_send_to_intent_extra_name">MailBoxToSendTo</string>
+    <string name="photo_period_intent_extra_name">TimePeriodToPhoto</string>
+    <string name="photo_quality_index_intent_extra_name">PhotoQuality</string>
+    <string name="started_from_intent_extra_name">ServiceStartedFrom</string>     
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_camera_activity">Camera_activity</string>
+    <string name="camera">camera</string>
+</resources>
