@@ -212,7 +212,6 @@ public class MainActivity extends ActionBarActivity
     	intent.putExtra(photoQualityPropertyName, photoQualityStr);
     	intent.putExtra(mailLoginPropertyName, mailLoginStr);
     	intent.putExtra(mailPasswordPropertyName, mailPasswordStr);
-    	Toast.makeText(this, mailPasswordStr, Toast.LENGTH_LONG).show();
     	intent.putExtra(mailPortalPropertyName, mailPortalStr);
     	intent.putExtra(smtpServerAddrPropertyName, smtpServerAddrStr);
     	intent.putExtra(smtpServerPortPropertyName, smtpServerPortStr);
